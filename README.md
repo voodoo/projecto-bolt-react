@@ -1,3 +1,6 @@
+![Projecto Screenshot](./screenshot.png)
+
+
 # Projecto
 
 ## Built with Bolt and Cursor (for Readme.md)
